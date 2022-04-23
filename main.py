@@ -1,3 +1,4 @@
+from my_modules import bayt, forasna, indeed, tanqeeb, wuzzuf
 # def main():
 #     if wuzzuf_check_box == True:
 #         wuzzuf()
@@ -19,5 +20,3 @@
 #         bayt()
 #     else:
 #         pass
-
-
