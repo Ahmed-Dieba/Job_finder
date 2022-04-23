@@ -1,0 +1,2 @@
+def forasna():
+    pass

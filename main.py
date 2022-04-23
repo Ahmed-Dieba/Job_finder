@@ -1,35 +1,21 @@
-import requests
-from bs4 import BeautifulSoup
-
-def wuzzuf():
-    pass
-def forasna():
-    pass
-def indeed():
-    pass
-def tanqeeb():
-    pass
-def bayt():
-    pass
-
 # def main():
-#     if wuzzuf_check_box == "yes":
+#     if wuzzuf_check_box == True:
 #         wuzzuf()
 #     else:
 #         pass
-#     if forasna_check_box == "yes":
+#     if forasna_check_box == True:
 #         forasna()
 #     else:
 #         pass
-#     if indeed_check_box == "yes":
+#     if indeed_check_box == True:
 #         indeed()
 #     else:
 #         pass
-#     if tanqeeb_check_box == "yes":
+#     if tanqeeb_check_box == True:
 #         tanqeeb()
 #     else:
 #         pass
-#     if bayt_check_box == "yes":
+#     if bayt_check_box == True:
 #         bayt()
 #     else:
 #         pass
